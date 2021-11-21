@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "KTestApp"
 include ':app'
+include ':app:basicsourceapp'

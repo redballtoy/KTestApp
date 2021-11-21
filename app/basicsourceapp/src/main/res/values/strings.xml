@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicSourceApp</string>
+    <string name="start_number">0</string>
+</resources>
