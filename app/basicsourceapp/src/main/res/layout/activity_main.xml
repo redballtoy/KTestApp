@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/tw_show_count"
+        android:id="@+id/tv_show_count"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
@@ -25,19 +25,19 @@
         android:id="@+id/bt_toast"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="toast"
+        android:text="@string/toast"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/bt_count"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tw_show_count"
+        app:layout_constraintTop_toBottomOf="@+id/tv_show_count"
         app:layout_constraintVertical_bias="0.501" />
 
     <Button
         android:id="@+id/bt_count"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="count"
+        android:text="@string/count"
         app:layout_constraintEnd_toStartOf="@+id/bt_random"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/bt_toast"
@@ -47,7 +47,7 @@
         android:id="@+id/bt_random"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="random"
+        android:text="@string/random"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/bt_count"

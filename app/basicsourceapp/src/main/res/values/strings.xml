@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">BasicSourceApp</string>
     <string name="start_number">0</string>
+    <string name="toast">toast</string>
+    <string name="count">count</string>
+    <string name="random">random</string>
 </resources>
