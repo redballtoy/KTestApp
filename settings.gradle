@@ -9,5 +9,5 @@ dependencyResolutionManagement {
 rootProject.name = "KTestApp"
 include ':app'
 include ':app:basicsourceapp'
-include ':app:mykotlintest'
 include ':app:activitylifecycle_sa_06k'
+include ':app:aaakotlintest'
