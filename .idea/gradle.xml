@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/activitylifecycle_sa_06k" />
             <option value="$PROJECT_DIR$/app/basicsourceapp" />
             <option value="$PROJECT_DIR$/app/mykotlintest" />
           </set>
