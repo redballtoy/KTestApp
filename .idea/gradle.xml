@@ -11,7 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/app/aaakotlintest" />
+            <option value="$PROJECT_DIR$/app/aaa_kotlintest" />
             <option value="$PROJECT_DIR$/app/activitylifecycle_sa_06k" />
             <option value="$PROJECT_DIR$/app/basicsourceapp" />
           </set>

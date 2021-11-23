@@ -10,4 +10,4 @@ rootProject.name = "KTestApp"
 include ':app'
 include ':app:basicsourceapp'
 include ':app:activitylifecycle_sa_06k'
-include ':app:aaakotlintest'
+include ':app:aaa_kotlintest'
